@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: client
-          image: konarkkapil/ticketing-client
+          image: konarkkapil/client
 ---
 apiVersion: v1
 kind: Service
